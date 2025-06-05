@@ -26,6 +26,13 @@ body {
   justify-content: center;
   align-items: center;
 }
+.barra-logo {
+  background-color: #5d4037; /* Café oscuro */
+  padding: 10px 0;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+}
+
 
 .entrada {
   background: rgba(30, 20, 10, 0.85);
@@ -62,12 +69,6 @@ p {
 
 .btn-entrar:hover {
   background: #bb935d;
-}
-.barra-logo {
-  background-color: #5d4037; /* Café oscuro */
-  padding: 10px 0;
-  text-align: center;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.3);
 }
 
 .barra-logo img {
