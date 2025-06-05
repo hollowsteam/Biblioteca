@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Georgia', serif;
-  background: #4b2e2e; /* Caf� oscuro tipo madera */
+  background: #4b2e2e; /* Café oscuro tipo madera */
   color: #fff;
   display: flex;
   justify-content: center;
@@ -62,4 +62,14 @@ p {
 
 .btn-entrar:hover {
   background: #bb935d;
+}
+.barra-logo {
+  background-color: #5d4037; /* Café oscuro */
+  padding: 10px 0;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+}
+
+.barra-logo img {
+  height: 80px;
 }
